@@ -13,3 +13,5 @@ echo "Password is Passw0rd1884!@#" | encryptor.exe supersecret123 | ncat
 localhost 7777
 ```
 ![usage](image-1.png)
+
+ammag.kz
